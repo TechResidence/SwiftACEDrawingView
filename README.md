@@ -1,6 +1,7 @@
-![Alt Text](https://github.com/TechResidence/SwiftTutorial/blob/master/Swift-logo.png)  
-
 # iOS SwiftACEDrawingView
+
+### App Image ###
+![Alt Text](https://github.com/TechResidence/SwiftACEDrawingView/blob/master/sample.gif)  
 
 ### Memo ###
 Swift2.0
