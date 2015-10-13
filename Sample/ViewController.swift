@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  Sample
 //
-//  Created by 溝垣雅人 on 10/13/15.
-//  Copyright © 2015 溝垣雅人. All rights reserved.
+//  Created by [MMasahito](https://github.com/MMasahito) on 2015/10/02.
+//  Copyright © 2015年 MMizogaki. All rights reserved.
 //
 
 import UIKit
