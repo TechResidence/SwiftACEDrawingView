@@ -10,7 +10,7 @@ https://github.com/acerbetti/ACEDrawingView
 
 Swift2.0を前提
 iOS7にも対応させています。  
-サポートディバイスはiPhone4 〜iPhone6Plusです。
+サポートディバイスはiPhone4 〜iPhone6Plusです。.
 https://github.com/acerbetti/ACEDrawingView
 
 ## Licence
